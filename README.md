@@ -1,3 +1,2 @@
 # hello-world
-
-My self swaroop. The Rockstar of salesforce
+My first GitHub
